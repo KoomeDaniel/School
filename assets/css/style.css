@@ -163,6 +163,9 @@ img{
     background-position: center;
     background-size: cover;
 }
+.num {
+    transition: color 0.4s ease-in-out;
+}
 .portfolio-item .iconbox{
     background-color: var(--c-brand);
     color:white;
